@@ -1,0 +1,30 @@
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ксения\Desktop\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.exe.config
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.exe
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.pdb
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.exe
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\bin\Debug\WindowsFormsApplication1.pdb
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\все с рабочего стола\Ангелина УЧЁБА\2 курс\прога\Лабораторная работа №4\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
